@@ -5,5 +5,5 @@ Lista de Caracteristicas
 - caracteristica 1
 - caracteristica 2. 
 - caracteristica 3.
-- caracteristica 4.
-
+- caracteristica 4
+- caracteristica 5.
