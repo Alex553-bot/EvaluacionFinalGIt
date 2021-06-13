@@ -3,4 +3,4 @@ v0
 
 Lista de Caracteristicas
 - caracteristica 1.
-- caracteristica 2.
+- caracteristica 2. (error)
