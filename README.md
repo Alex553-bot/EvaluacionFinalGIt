@@ -1,5 +1,5 @@
 El Dojo DOdge de SCESILIA
-v2.0
+v3.0
 
 Lista de Caracteristicas
 - caracteristica 1
